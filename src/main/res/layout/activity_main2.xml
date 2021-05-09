@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/confirmar"
+        android:textSize="@dimen/padding_confirmar"/>
+
+    <TextView
+        android:id="@+id/recibir_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre_act2"
+        android:textSize="@dimen/padding_confirmar"/>
+
+    <TextView
+        android:id="@+id/recibir_fecha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fecha_act2"
+        android:textSize="@dimen/padding_confirmar"/>
+
+    <TextView
+        android:id="@+id/recibir_telefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/telefono_act2"
+        android:textSize="@dimen/padding_confirmar"/>
+
+    <TextView
+        android:id="@+id/recibir_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email_act2"
+        android:textSize="@dimen/padding_confirmar"/>
+
+    <TextView
+        android:id="@+id/recibir_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/description_act2"
+        android:textSize="@dimen/padding_confirmar"/>
+
+    <Button
+        android:id="@+id/ID_button_return"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/button_2"
+        />
+
+</LinearLayout>

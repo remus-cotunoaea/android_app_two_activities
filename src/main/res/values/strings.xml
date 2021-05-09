@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Remus_App</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="description">Descripcion Contacto</string>
+    <string name="button_1">Siguiente</string>
+    <string name="button_2">Editar Datos</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="helper_nombre">Aqui ingresa tu nombre</string>
+    <string name="helper_fecha">Haga doble clic en el cuadro</string>
+    <string name="helper_telefono">Aqui ingresa tu telefono</string>
+    <string name="helper_email">Aqui ingresa tu e-mail</string>
+    <string name="helper_description">Aqui ingresa la description</string>
+    <string name="nombre_act2">Nombre Completo</string>
+    <string name="fecha_act2">Fecha Nacimiento</string>
+    <string name="telefono_act2">Telefono</string>
+    <string name="email_act2">Email</string>
+    <string name="description_act2">Descripcion</string>
+</resources>
